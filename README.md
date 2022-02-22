@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter Clone*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter clone** is a basic twitter app to read your tweets.
 
 Time spent: **9** hours spent in total
 
@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+### App Walkthrough GIF
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/danae678/TwitterClone/blob/main/TwitterGif.gif)
 
